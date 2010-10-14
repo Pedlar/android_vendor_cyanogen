@@ -20,7 +20,7 @@ Maintainers:
 * Incredible: Koush
 * Espresso (Slide): Wes Garner, Chris Soyars, Cyanogen
 * Supersonic (EVO): Cyanogen, toastcfh
-* Galaxy S (Vibrant): Scepterr, Wes Garner
+* Galaxy S Series: Wes Garner, noobnl, TheDude
 * Legend: Alexander Hofbauer
 * Vision: Cyanogen
 
