@@ -13,6 +13,5 @@ add_lunch_combo cyanogen_vibrant-eng
 add_lunch_combo cyanogen_legend-eng
 add_lunch_combo cyanogen_vision-eng
 add_lunch_combo cyanogen_epic-eng
-add_lunch_combo cyanogen_i9000-eng
 
 PATH=$PATH:$PWD/vendor/cyanogen/tools ; export PATH
