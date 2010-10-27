@@ -13,5 +13,5 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_vibrant.mk \
     $(LOCAL_DIR)/cyanogen_legend.mk \
     $(LOCAL_DIR)/cyanogen_vision.mk \
-    $(LOCAL_DIR)/cyanogen_epic.mk
-#    $(LOCAL_DIR)/cyanogen_captivate.mk
+    $(LOCAL_DIR)/cyanogen_epic.mk \
+    $(LOCAL_DIR)/cyanogen_captivate.mk
