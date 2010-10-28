@@ -13,5 +13,7 @@ add_lunch_combo cyanogen_sholes-eng
 add_lunch_combo cyanogen_supersonic-eng
 add_lunch_combo cyanogen_vibrant-eng
 add_lunch_combo cyanogen_vision-eng
+add_lunch_combo cyanogen_epic-eng
+add_lunch_combo cyanogen_captivate-eng
 
 PATH=$PATH:$PWD/vendor/cyanogen/tools ; export PATH
