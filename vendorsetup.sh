@@ -1,6 +1,5 @@
 add_lunch_combo cyanogen_bravo-eng
 add_lunch_combo cyanogen_bravoc-eng
-add_lunch_combo cyanogen_captivate-eng
 add_lunch_combo cyanogen_dream_sapphire-eng
 add_lunch_combo cyanogen_espresso-eng
 add_lunch_combo cyanogen_hero-eng
@@ -11,9 +10,10 @@ add_lunch_combo cyanogen_liberty-eng
 add_lunch_combo cyanogen_passion-eng
 add_lunch_combo cyanogen_sholes-eng
 add_lunch_combo cyanogen_supersonic-eng
-add_lunch_combo cyanogen_vibrant-eng
 add_lunch_combo cyanogen_vision-eng
+add_lunch_combo [GalaxyS-Series-Devices]
 add_lunch_combo cyanogen_epic-eng
 add_lunch_combo cyanogen_captivate-eng
+add_lunch_combo cyanogen_vibrant-eng
 
 PATH=$PATH:$PWD/vendor/cyanogen/tools ; export PATH
