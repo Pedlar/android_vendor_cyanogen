@@ -15,5 +15,6 @@ add_lunch_combo [GalaxyS-Series-Devices]
 add_lunch_combo cyanogen_epic-eng
 add_lunch_combo cyanogen_captivate-eng
 add_lunch_combo cyanogen_vibrant-eng
+add_lunch_combo cyanogen_fascinate-eng
 
 PATH=$PATH:$PWD/vendor/cyanogen/tools ; export PATH
